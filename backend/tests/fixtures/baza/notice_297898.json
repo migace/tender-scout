@@ -1,0 +1,446 @@
+{
+ "status": "OK",
+ "data": {
+  "advertisement": {
+   "id": 395157,
+   "title": "Zapytanie ofertowe nr 73/ARZ/FESL.05.04 w projekcie „Akademia Rozwoju Zawodowego” nr FESL.05.04-IP.02-07HD/23 realizowanym w ramach Programu Fundusze Europejskie dla Śląskiego 2021-2027 współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus",
+   "partial_offer_allowed": false,
+   "publication_date": "2026-11-13",
+   "submission_deadline": "2026-11-23 09:00:00",
+   "planned_sign_date": "2026-11-01",
+   "supplementary_orders": null,
+   "terms_of_contract_change": "Szczegółowy opis warunków zmiany umowy znajduje się w załącznikach.",
+   "created_at": "2026-11-13 09:55:44",
+   "modified_at": "2026-11-13 09:55:58",
+   "contact_persons": [
+    {
+     "id": 1,
+     "forename": "Zmyślona",
+     "surname": "Nieistniejąca",
+     "phone_number": "000111222",
+     "email": "nobody@invalid.example",
+     "created_by": null,
+     "created_at": "2026-01-01 00:00:00",
+     "modified_at": "2026-01-01 00:00:00",
+     "modified_by": null
+    }
+   ],
+   "orders": [
+    {
+     "id": 640398,
+     "estimated_value": null,
+     "order_items": [
+      {
+       "id": 720024,
+       "description": "Przedmiotem zamówienia jest zrealizowanie szkolenia zawodowego pn. „Profesjonalny masaż Kobido – przygotowanie do pracy w zawodzie masażystki twarzy”, podnoszącego kwalifikacje dla 4 UP w Chorzowie.\n\nSzczegółowy opis przedmiotu zamówienia znajduje się w Zapytaniu ofertowym.",
+       "warranty_period": null,
+       "cpv_items": [
+        {
+         "id": 4742,
+         "code": "39162100-6",
+         "name": "Pomoce dydaktyczne"
+        },
+        {
+         "id": 7730,
+         "code": "55520000-1",
+         "name": "Usługi dostarczania posiłków"
+        },
+        {
+         "id": 8060,
+         "code": "70220000-9",
+         "name": "Usługi wynajmu lub leasingu nieruchomości innych niż mieszkalne"
+        },
+        {
+         "id": 8915,
+         "code": "80000000-4",
+         "name": "Usługi edukacyjne i szkoleniowe"
+        },
+        {
+         "id": 8927,
+         "code": "80400000-8",
+         "name": "Usługi edukacji osób dorosłych oraz inne"
+        },
+        {
+         "id": 8939,
+         "code": "80500000-9",
+         "name": "Usługi szkoleniowe"
+        }
+       ],
+       "timetable_items": [],
+       "fulfillment_places": [
+        {
+         "country": "Polska",
+         "voivodeship": "śląskie",
+         "poviat": "Chorzów",
+         "commune": "Chorzów",
+         "locality": "Chorzów",
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "id": 821056,
+         "type": {
+          "id": 1,
+          "name": "adres"
+         },
+         "group_uuid": "91e1d099-bfbe-4a03-8e86-78dede79415a"
+        }
+       ],
+       "participation_conditions": [
+        {
+         "id": 2061461,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 1,
+          "name": "Uprawnienia do wykonywania określonej działalności lub czynności"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "eac6db3c-1ba7-4f3a-a19c-987e87909d6b"
+        },
+        {
+         "id": 2061462,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 2,
+          "name": "Wiedza i doświadczenie"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "b905278f-3a56-4c3a-aa12-5723f1941e03"
+        },
+        {
+         "id": 2061463,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 3,
+          "name": "Potencjał techniczny"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "ca3d6584-40ac-4deb-acec-44d7d3b77fad"
+        },
+        {
+         "id": 2061464,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 4,
+          "name": "Osoby zdolne do wykonania zamówienia"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "8c0b785e-e47f-4d2d-8926-6a38b83e6270"
+        },
+        {
+         "id": 2061465,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 5,
+          "name": "Sytuacja ekonomiczna i finansowa"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "a57af4c0-5504-476c-a1e8-b86453638d8e"
+        },
+        {
+         "id": 2061466,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 6,
+          "name": "Lista wymaganych dokumentów/oświadczeń"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "464b2922-53c7-4066-bab6-8918296d32d1"
+        },
+        {
+         "id": 2061467,
+         "description": "Szczegółowy opis wymagania znajduje się w załącznikach.",
+         "type": {
+          "id": 7,
+          "name": "Dodatkowe warunki udziału"
+         },
+         "created_by": null,
+         "created_at": "2026-11-13 09:55:44",
+         "modified_at": "2026-11-13 09:55:44",
+         "modified_by": null,
+         "group_uuid": "4198711b-b780-4b18-9282-cd3b8c01f720"
+        }
+       ],
+       "category": {
+        "id": 1,
+        "name": "Usługa"
+       },
+       "subcategory": {
+        "id": 1,
+        "name": "Usługi szkoleniowe"
+       },
+       "created_by": null,
+       "created_at": "2026-11-13 09:55:44",
+       "modified_at": "2026-11-13 09:55:44",
+       "modified_by": null,
+       "group_uuid": "cede8e45-1b01-46c8-a31c-beb13ecb4275"
+      }
+     ],
+     "evaluation_criteria": [
+      {
+       "id": 1155500,
+       "price_criterion": true,
+       "description": "Cena - 30%\nSzczegółowy opis w załączniku Zapytanie ofertowe.",
+       "created_by": null,
+       "created_at": "2026-11-13 09:55:44",
+       "modified_at": "2026-11-13 09:55:44",
+       "modified_by": null,
+       "group_uuid": "9c9f0c54-27ed-453c-86fd-6823d7f08334"
+      },
+      {
+       "id": 1155501,
+       "price_criterion": false,
+       "description": "Doświadczenie kadry - 30%\nSzczegółowy opis w załączniku Zapytanie ofertowe.",
+       "created_by": null,
+       "created_at": "2026-11-13 09:55:44",
+       "modified_at": "2026-11-13 09:55:44",
+       "modified_by": null,
+       "group_uuid": "4bfa466d-357a-4ed5-b10b-236dfdc29c3c"
+      },
+      {
+       "id": 1155502,
+       "price_criterion": false,
+       "description": "Klauzule społeczne - 30%\nSzczegółowy opis w załączniku Zapytanie ofertowe.",
+       "created_by": null,
+       "created_at": "2026-11-13 09:55:44",
+       "modified_at": "2026-11-13 09:55:44",
+       "modified_by": null,
+       "group_uuid": "eb1fa133-f59e-4c0e-baa6-80e5317f1d04"
+      },
+      {
+       "id": 1155503,
+       "price_criterion": false,
+       "description": "Czas reakcji - 10%\nSzczegółowy opis w załączniku Zapytanie ofertowe.",
+       "created_by": null,
+       "created_at": "2026-11-13 09:55:44",
+       "modified_at": "2026-11-13 09:55:44",
+       "modified_by": null,
+       "group_uuid": "e966e3c7-7cd7-4c98-900e-edb3ee4c9323"
+      }
+     ],
+     "is_variant": false,
+     "title": "Szkolenie zawodowe",
+     "order_node": {
+      "id": 482180
+     },
+     "created_by": null,
+     "created_at": "2026-11-13 09:55:44",
+     "modified_at": "2026-11-13 09:55:44",
+     "modified_by": null
+    }
+   ],
+   "created_by": null,
+   "modified_by": null,
+   "status": {
+    "id": 2,
+    "label": "PUBLISHED",
+    "name": "Opublikowane"
+   },
+   "advertiser_address_details": {
+    "name": "Fundacja Instytut Edukacji",
+    "identification_number_type": "nip",
+    "identification_number": "5472203701",
+    "address": {
+     "country": "Polska",
+     "voivodeship": "śląskie",
+     "poviat": "Bielsko-Biała",
+     "commune": "Bielsko-Biała",
+     "locality": "Bielsko-Biała",
+     "created_by": null,
+     "created_at": null,
+     "modified_at": null,
+     "modified_by": null,
+     "id": 1124955,
+     "street": "al. Armii Krajowej 220 paw.",
+     "number_description": "1/111",
+     "postcode": "43-316"
+    },
+    "created_by": null,
+    "created_at": "2026-11-13 09:55:36",
+    "modified_at": "2026-11-13 09:55:36",
+    "modified_by": null,
+    "id": 396235
+   },
+   "advertisement": {
+    "id": 297898,
+    "number": "2026-28705-297898",
+    "publication_date": "2026-11-13",
+    "created_by": null,
+    "created_at": "2026-11-13 09:55:36",
+    "modified_at": "2026-11-13 09:55:58",
+    "modified_by": null,
+    "status": {
+     "id": 2,
+     "label": "PUBLISHED",
+     "name": "Opublikowane"
+    },
+    "all_available_version_ids": [
+     395157
+    ],
+    "enrollment": null,
+    "projects": [
+     {
+      "id": 50716,
+      "name": "Akademia Rozwoju Zawodowego",
+      "number": "07HD/23",
+      "activity": {
+       "created_by": null,
+       "created_at": "2023-02-22 10:45:50",
+       "modified_at": "2023-02-22 10:45:50",
+       "modified_by": null
+      },
+      "region": null,
+      "institution": {
+       "created_by": null,
+       "created_at": "2023-02-22 11:55:50",
+       "modified_at": "2023-02-22 11:55:50",
+       "modified_by": null
+      },
+      "full_number": "FESL.05.04-IP.02-07HD/23",
+      "perspective": {},
+      "programme": {
+       "created_by": null,
+       "created_at": "2023-02-22 10:39:58",
+       "modified_at": "2023-02-22 10:39:58",
+       "modified_by": null
+      },
+      "priority": {
+       "created_by": null,
+       "created_at": "2023-02-22 10:40:38",
+       "modified_at": "2023-02-22 10:40:38",
+       "modified_by": null
+      },
+      "type": "project",
+      "created_by": null,
+      "created_at": "2024-10-07 08:50:13",
+      "modified_at": "2024-10-07 08:50:13",
+      "modified_by": null
+     }
+    ],
+    "is_author": false,
+    "is_admin": false
+   },
+   "attachments": [
+    {
+     "origin": {
+      "id": 395157,
+      "publication_date": "2026-11-13"
+     },
+     "id": 2885527,
+     "name": "Zapytanie ofertowe",
+     "file": {
+      "id": 3202303,
+      "name": "Zapytanie ofertowe.docx",
+      "created_at": "2026-11-13 09:54:24",
+      "created_by": null,
+      "uri": "/api/files/3202303"
+     },
+     "group_uuid": "be0b66fa-8843-4810-a938-e6a4ef2a1419"
+    },
+    {
+     "origin": {
+      "id": 395157,
+      "publication_date": "2026-11-13"
+     },
+     "id": 2885528,
+     "name": "Załącznik nr 1 Formularz oferty",
+     "file": {
+      "id": 3202304,
+      "name": "Załącznik nr 1 Formularz oferty.docx",
+      "created_at": "2026-11-13 09:54:28",
+      "created_by": null,
+      "uri": "/api/files/3202304"
+     },
+     "group_uuid": "e6a046e5-6437-4aac-88b0-bf023a4843a6"
+    },
+    {
+     "origin": {
+      "id": 395157,
+      "publication_date": "2026-11-13"
+     },
+     "id": 2885529,
+     "name": "Załącznik nr 2 Doświadczenie kadry",
+     "file": {
+      "id": 3202305,
+      "name": "Załącznik nr 2 Doświadczenie kadry.docx",
+      "created_at": "2026-11-13 09:54:33",
+      "created_by": null,
+      "uri": "/api/files/3202305"
+     },
+     "group_uuid": "a98d5052-aac7-4c2f-8c06-0d39d2603ad3"
+    },
+    {
+     "origin": {
+      "id": 395157,
+      "publication_date": "2026-11-13"
+     },
+     "id": 2885530,
+     "name": "Załącznik nr 3 Oświadczenie w zakresie objęcia sankcjami",
+     "file": {
+      "id": 3202306,
+      "name": "Załącznik nr 3 Oświadczenie w zakresie objęcia sankcjami.docx",
+      "created_at": "2026-11-13 09:54:38",
+      "created_by": null,
+      "uri": "/api/files/3202306"
+     },
+     "group_uuid": "6bcc39ce-8cbf-45f2-9fe8-eb8f4b717b26"
+    },
+    {
+     "origin": {
+      "id": 395157,
+      "publication_date": "2026-11-13"
+     },
+     "id": 2885531,
+     "name": "Załącznik nr 4 Oświadczenie o spełnianiu aspektów społecznych",
+     "file": {
+      "id": 3202307,
+      "name": "Załącznik nr 4 Oświadczenie o spełnianiu aspektów społecznych.docx",
+      "created_at": "2026-11-13 09:54:45",
+      "created_by": null,
+      "uri": "/api/files/3202307"
+     },
+     "group_uuid": "ed7c2d5e-b7f2-4877-9245-436c1ec82f95"
+    },
+    {
+     "origin": {
+      "id": 395157,
+      "publication_date": "2026-11-13"
+     },
+     "id": 2885532,
+     "name": "Załącznik nr 5 Klauzula informacyjna dot. przetwarzania danych osobowych",
+     "file": {
+      "id": 3202308,
+      "name": "Załącznik nr 5 Klauzula informacyjna dot. przetwarzania danych osobowych.docx",
+      "created_at": "2026-11-13 09:54:55",
+      "created_by": null,
+      "uri": "/api/files/3202308"
+     },
+     "group_uuid": "a3c02daa-7602-472f-9773-3a272d335b59"
+    }
+   ]
+  },
+  "dictionaries": [],
+  "favorite": null,
+  "badge": null,
+  "offer_set_badge_count": null,
+  "question_badge_count": null
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "status": "OK",
+ "data": {
+  "advertisements": [
+   {
+    "id": 261815,
+    "title": "Dostawa, wdrożenie i uruchomienie systemu do automatycznej digitalizacji dokumentacji medycznej",
+    "content": "Dostawa, wdrożenie i uruchomienie systemu do automatycznej digitalizacji dokumentacji medycznej",
+    "advertiser_name": "Centrum Medyczne Tommed Sp. z o.o. Ośrodek Diagnostyki Sp. k.",
+    "is_mine": false,
+    "publication_date": "2026-09-04",
+    "submission_deadline": "2027-01-29 10:00:00",
+    "fulfillment_place": "Katowice, śląskie",
+    "favorite": null
+   },
+   {
+    "id": 297545,
+    "title": "2026/11/T2/8088",
+    "content": "1. Przedmiotem zamówienia jest kompleksowa usługa szkoleniowa dla maksymalnie 4.050 nauczycieli i nauczycielek, polegająca na organizacji i realizacji szkoleń dla uczestników projektu pn. „Ogólnopolski program rozwoju za",
+    "advertiser_name": "Edukacja Bez Barier - Fundacja Na Rzecz Rozwoju Edukacji w Polsce",
+    "is_mine": false,
+    "publication_date": "2026-11-10",
+    "submission_deadline": "2026-12-14 08:00:00",
+    "fulfillment_place": "Cała Polska",
+    "favorite": null
+   },
+   {
+    "id": 297491,
+    "title": "Zapytanie ofertowe nr 1/EK/2026 dotyczące wyboru wykonawcy do kompleksowej organizacji i realizacji szkoleń dla Szkolnych Koordynatorów Cyfrowej Edukacji w ramach projektu „E-Koordynator w każdej szkole” współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus w ramach programu Fundusze Europejskie dla Rozwoju Społecznego 2021-2027, Priorytet FERS.01 Umiejętności, Działanie 01.04 Rozwój systemu edukacji",
+    "content": "Zapytanie ofertowe nr 1/EK/2026 dotyczące wyboru wykonawcy do kompleksowej organizacji i realizacji szkoleń dla Szkolnych Koordynatorów Cyfrowej Edukacji w ramach projektu „E-Koordynator w każdej szkole” współfinansowane",
+    "advertiser_name": "OIC POLAND Fundacja Uniwersytetu WSEI ",
+    "is_mine": false,
+    "publication_date": "2026-11-10",
+    "submission_deadline": "2026-12-10 09:00:00",
+    "fulfillment_place": "Lublin, lubelskie",
+    "favorite": null
+   }
+  ],
+  "meta": {
+   "total": 88
+  }
+ }
+}

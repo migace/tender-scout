@@ -1,0 +1,32 @@
+# One grouped pull request a month for each place a version is pinned.
+# Security updates do not wait for the schedule.
+version: 2
+
+updates:
+  - package-ecosystem: uv
+    directory: /backend
+    schedule:
+      interval: monthly
+    groups:
+      backend:
+        patterns: ["*"]
+
+  - package-ecosystem: docker-compose
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      compose:
+        patterns: ["*"]
+    ignore:
+      # A new PostgreSQL major needs its data directory upgraded first.
+      - dependency-name: postgres
+        update-types: ["version-update:semver-major"]
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      actions:
+        patterns: ["*"]
